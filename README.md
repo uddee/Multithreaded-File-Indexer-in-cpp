@@ -11,7 +11,6 @@ This project is a simple multithreaded file indexer written in modern C++17 usin
 
 ```bash
 ./indexer /path/to/dir1 /path/to/dir2 ...
-
 🛠️ Build Instructions
 bash
 Copy
@@ -38,3 +37,4 @@ C++17 std::filesystem
 std::thread and std::mutex
 
 RAII for thread-safety (std::lock_guard)
+
