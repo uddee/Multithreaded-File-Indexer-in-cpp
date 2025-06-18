@@ -38,6 +38,3 @@ std::thread and std::mutex
 
 RAII for thread-safety (std::lock_guard)
 
-yaml
-Copy
-Edit
